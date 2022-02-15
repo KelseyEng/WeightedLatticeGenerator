@@ -28,7 +28,7 @@ addpath(genpath(subFolderName));
 % Select type of unit cell  
     % 5: standard Octet Lattice.
     % 6: Reinforced Octet
-    % 7: Octa
+    % 7: Octahedral
     % 8: Reinforced Octahedral
     % 9: circular Octahedral
     % 10: BCC
